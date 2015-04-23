@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-lnf/issues"
   },
+  "devDependencies": {
+    "mocha": "*",
+    "is-there": "1.1.0"
+  },
   "homepage": "https://github.com/IonicaBizau/node-lnf"
 }
