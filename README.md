@@ -34,7 +34,7 @@ Creates or overrides a symlink.
 - **String** `type`: The symlink type.
 - **Function** `callback`: The callback function
 
-### `Lnf(target, dstpath, type)`
+### `Lnf.sync(target, dstpath, type)`
 Synchronous `lnf`.
 
 ## How to contribute
