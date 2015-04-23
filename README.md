@@ -1,3 +1,5 @@
+![](http://i.imgur.com/tUWANmF.png)
+
 # lnf
 Creates or overrides symlinks.
 
@@ -36,7 +38,6 @@ Creates or overrides a symlink.
 
 ### `Lnf(target, dstpath, type)`
 Synchronous `lnf`.
-
 
 ## How to contribute
 1. File an issue in the repository, using the bug tracker, describing the
