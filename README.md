@@ -15,9 +15,7 @@ $ npm install lnf
 var Lnf = require("lnf");
 
 // Create the symlink
-Lnf.sync("foo", __dirname + "/baz", function () {
-
-});
+Lnf.sync("foo", __dirname + "/baz");
 
 // Override it
 Lnf("bar", __dirname + "/baz", function (err) {
