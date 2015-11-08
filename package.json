@@ -1,6 +1,6 @@
 {
   "name": "lnf",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Creates or overrides symlinks.",
   "main": "lib/index.js",
   "directories": {
@@ -18,8 +18,8 @@
     "symlink",
     "force"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "MIT",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-lnf/issues"
   },
@@ -27,5 +27,8 @@
     "mocha": "*",
     "is-there": "1.1.0"
   },
-  "homepage": "https://github.com/IonicaBizau/node-lnf"
+  "homepage": "https://github.com/IonicaBizau/node-lnf",
+  "blah": {
+    "h_img": "http://i.imgur.com/tUWANmF.png"
+  }
 }
