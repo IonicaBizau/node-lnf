@@ -3,5 +3,3 @@
 *~
 *.log
 node_modules
-example/baz
-test/baz

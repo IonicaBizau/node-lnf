@@ -1,16 +1,20 @@
+
 [![lnf](http://i.imgur.com/tUWANmF.png)](#)
 
 # lnf [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Travis](https://img.shields.io/travis/IonicaBizau/node-lnf.svg)](https://travis-ci.org/IonicaBizau/node-lnf/) [![Version](https://img.shields.io/npm/v/lnf.svg)](https://www.npmjs.com/package/lnf) [![Downloads](https://img.shields.io/npm/dt/lnf.svg)](https://www.npmjs.com/package/lnf) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Creates or overrides symlinks.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save lnf
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -25,7 +29,8 @@ Lnf("bar", __dirname + "/baz", function (err) {
 });
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `lnf(target, dstpath, type, callback)`
 Creates or overrides a symlink.
@@ -39,15 +44,18 @@ Creates or overrides a symlink.
 #### Return
 - ****
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`engine-tools`](https://github.com/jillix/engine-tools) by jillix
 
-## License
+ - [`engine-tools`](https://github.com/jillix/engine-tools) (by jillix)—Engine Tools library and CLI app.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
