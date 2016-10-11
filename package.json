@@ -1,6 +1,6 @@
 {
   "name": "lnf",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "description": "Creates or overrides symlinks.",
   "main": "lib/index.js",
   "directories": {
@@ -35,6 +35,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
