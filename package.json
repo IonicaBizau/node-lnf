@@ -1,6 +1,6 @@
 {
   "name": "lnf",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "description": "Creates or overrides symlinks.",
   "main": "lib/index.js",
   "directories": {
@@ -18,7 +18,7 @@
     "symlink",
     "force"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-lnf/issues"
@@ -35,12 +35,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
