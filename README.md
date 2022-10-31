@@ -50,6 +50,7 @@
 
 
 ## :cloud: Installation
+Using npm, follow below steps to download
 
 ```sh
 # Using npm
@@ -101,7 +102,7 @@ Lnf("bar", __dirname + "/baz", function (err) {
 ## :question: Get Help
 
 There are few ways to get help:
-
+Follow below steps and useful links for setup help.
 
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
