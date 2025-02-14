@@ -12,6 +12,3 @@ Creates or overrides a symlink.
 - **String** `type`: The symlink type.
 - **Function** `callback`: The callback function
 
-#### Return
-- ****
-
